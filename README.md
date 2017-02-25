@@ -103,11 +103,13 @@
       "values": [
         {
           "sensor": "TEPLOTA_IZBA",
-          "value": 32545.23423
+          "value": 32545.23423,
+          "happened_at": "2017-02-25T11:52:39+00:59"
         },
         {
           "sensor": "TEPLOTA_KUCHYNA",
-          "value": 42.42
+          "value": 42.42,
+          "happened_at": "2017-02-25T11:52:39+00:58"
         }
       ]
     }
